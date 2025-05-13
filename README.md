@@ -1,15 +1,20 @@
-nextsentenceprediction
-Project Overview
-The Next Sentence Prediction using Generative AI project aims to build a system that predicts the next sentence based on a user-provided input. It leverages transformer-based models, specifically GPT-2, to generate coherent and contextually appropriate next sentences. The system is integrated with a user-friendly Streamlit interface for real-time interaction, making it suitable for applications in chatbots, content generation, smart editors, and summarization tools.
+# Next Sentence Prediction using Generative AI
 
-Key Features:
-Accepts a user-provided sentence or paragraph.
-Generates one or more contextually relevant next sentences using GPT-2.
-Filters and ranks suggestions based on coherence and fluency.
-Easy-to-use web interface built with Streamlit.
-Setup and Installation Instructions
+## Project Overview
+
+The **Next Sentence Prediction using Generative AI** project aims to build a system that predicts the next sentence based on a user-provided input. It leverages transformer-based models, specifically GPT-2, to generate coherent and contextually appropriate next sentences.
+
+### Key Features:
+- Accepts a user-provided sentence or paragraph.
+- Generates one or more contextually relevant next sentences using GPT-2.
+- Filters and ranks suggestions based on coherence and fluency.
+---
+
+## Setup and Installation Instructions
+
 Follow the steps below to set up the project locally.
 
-Prerequisites
-Python 3.7 or higher is required to run the project.
-Install the dependencies listed in the requirements.txt file.
+### Prerequisites
+
+- **Python 3.7 or higher** is required to run the project.
+- Install the dependencies listed in the `requirements.txt` file.
